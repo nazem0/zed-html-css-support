@@ -1,0 +1,5 @@
+/target/
+/_unpacked/
+*.wasm
+.DS_Store
+Thumbs.db

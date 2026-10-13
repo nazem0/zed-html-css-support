@@ -1,0 +1,14 @@
+id = "html-css-support"
+name = "HTML CSS Support"
+version = "0.1.0"
+schema_version = 1
+authors = ["nazem0"]
+description = "CSS id/class IntelliSense for HTML in Zed (remake of ecmel.vscode-html-css)."
+repository = "https://github.com/nazem0/zed-html-css-support"
+
+[language_servers.html-css-support]
+name = "HTML CSS Support"
+languages = ["HTML"]
+
+[language_servers.html-css-support.language_ids]
+"HTML" = "html"
